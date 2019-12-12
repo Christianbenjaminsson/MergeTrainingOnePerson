@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9ab6a33c-e259-4858-90d7-bccc7e373d9c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/mergetrainingoneperson/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/mergetrainingoneperson/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +81,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="533" y="130" key="#com.intellij.ide.util.MemberChooser" timestamp="1576069617358">
+      <screen x="0" y="23" width="1440" height="799" />
+    </state>
+    <state x="533" y="130" key="#com.intellij.ide.util.MemberChooser/0.23.1440.799@0.23.1440.799" timestamp="1576069617358" />
     <state width="1358" height="191" key="GridCell.Tab.0.bottom" timestamp="1575826259204">
       <screen x="0" y="23" width="1440" height="799" />
     </state>
@@ -96,5 +101,9 @@
       <screen x="0" y="23" width="1440" height="799" />
     </state>
     <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.799@0.23.1440.799" timestamp="1575826259204" />
+    <state x="385" y="146" key="search.everywhere.popup" timestamp="1576069833468">
+      <screen x="0" y="23" width="1440" height="799" />
+    </state>
+    <state x="385" y="146" key="search.everywhere.popup/0.23.1440.799@0.23.1440.799" timestamp="1576069833468" />
   </component>
 </project>
