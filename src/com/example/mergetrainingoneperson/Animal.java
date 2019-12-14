@@ -11,4 +11,9 @@ public class Animal {
     public String getName() {
         return name;
     }
+
+    //TODO merge test1 into master
+    public void setName(String name) {
+        this.name = name;
+    }
 }
