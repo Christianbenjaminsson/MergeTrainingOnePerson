@@ -1,3 +1,5 @@
+package com.example.mergetrainingoneperson;
+
 import com.example.mergetrainingoneperson.Animal;
 
 public class Dog extends Animal {
